@@ -10,7 +10,8 @@ Make the LOW value so low that blinking can't be perceived
 
 ## Result
 
-![Working circuit](images/working.jpg)
+![Working circuit]
+(https://drive.google.com/file/d/1PH3vWPws5eRYrbXmpZVlXnwgkgD31QZM/view?usp=sharing)
 
 ## Demo
 
