@@ -26,4 +26,5 @@ Blink 4 LEDs (SOS)
 
 
 ## Problems faced:
+-Understanding series, parallel connections initially
 
