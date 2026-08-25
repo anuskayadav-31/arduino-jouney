@@ -6,12 +6,12 @@ Blink 4 LEDs (SOS)
 
 ## Circuit
 
-![Circuit]()
+![Circuit](https://drive.google.com/file/d/1cWqccs210SoLqnEzl84_TqV3qAUt-V9Y/view?usp=sharing)
 
 ## Result
 
 ![Working circuit]
-()
+Try_1: (https://drive.google.com/file/d/1puVUY6IJzdfVLqRi0ymprPkHXc4CEv9Y/view?usp=sharing)
 
 
 ## Demo
